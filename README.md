@@ -6,7 +6,7 @@
 - 💬 Ask me anything about Flutter
 - 📫 How to reach me: anettajarackal@gmail.com
 
-
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=anettaj.anettaj)
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anet-taj-a350b1272/) 
@@ -25,4 +25,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=anettaj.anettaj)
+
