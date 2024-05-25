@@ -25,6 +25,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=anettaj&icon=1&color=10)](https://visitcount.itsvg.in)
-
 ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=anettaj.anettaj)
