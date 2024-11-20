@@ -8,21 +8,30 @@
 ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=anettaj.anettaj)
 
 ## Featured Projects
-
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: nowrap;">
-  <a href="http://anettaj.in/" style="text-align: center;">
-    <img src="https://res.cloudinary.com/dljwalapq/image/upload/v1727186230/Portfolio/Projects/DeepTune/Group_832_l8gffm.png" alt="DeepTune" width="200px" />
-    <p>DeepTune</p>
-  </a>
-  <a href="http://anettaj.in/" style="text-align: center;">
-    <img src="https://res.cloudinary.com/dljwalapq/image/upload/v1727952138/Portfolio/Projects/Newswave/13_umpsv5.png" alt="Newswave" width="200px" />
-    <p>Newswave</p>
-  </a>
-  <a href="http://anettaj.in/" style="text-align: center;">
-    <img src="https://res.cloudinary.com/dljwalapq/image/upload/v1731687872/Portfolio/Projects/Leetcode%20Progress%20Tracker/Group_47244_hhak3w.png" alt="Leetcode Progress Tracker" width="200px" />
-    <p>Leetcode Progress Tracker</p>
-  </a>
-</div>
+<table align="center" border="0" style="background-color: white; border: 1px solid white;">
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://anettaj.in/Leetcodetracker/">
+        <img src="https://res.cloudinary.com/dljwalapq/image/upload/v1731687872/Portfolio/Projects/Leetcode%20Progress%20Tracker/Group_47244_hhak3w.png" alt="Leetcode Progress Tracker" width="60%"/>
+      </a>
+      <p style="color: black; font-weight: bold;">Leetcode Progress Tracker</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="http://anettaj.in/">
+        <img src="https://res.cloudinary.com/dljwalapq/image/upload/v1727952138/Portfolio/Projects/Newswave/13_umpsv5.png" alt="Newswave" width="60%" />
+      </a>
+      <p style="color: black; font-weight: bold;">Newswave</p>
+    </td>
+    <td align="center">
+      <a href="http://anettaj.in/">
+        <img src="https://res.cloudinary.com/dljwalapq/image/upload/v1727186230/Portfolio/Projects/DeepTune/Group_832_l8gffm.png" alt="DeepTune" width="60%" />
+      </a>
+      <p style="color: black; font-weight: bold;">DeepTune</p>
+    </td>
+  </tr>
+</table>
 
 
 ## 🌐Socials
