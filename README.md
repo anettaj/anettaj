@@ -1,4 +1,3 @@
-
 ## Hey, I'm [Anet!](http://anettaj.me/) 👋
 
 - 🔭 I’m currently working on Flutter
@@ -7,6 +6,24 @@
 - 📫 How to reach me: anettajarackal@gmail.com
 
 ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=anettaj.anettaj)
+
+## Featured Projects
+
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: nowrap;">
+  <a href="http://anettaj.in/" style="text-align: center;">
+    <img src="https://res.cloudinary.com/dljwalapq/image/upload/v1727186230/Portfolio/Projects/DeepTune/Group_832_l8gffm.png" alt="DeepTune" width="200px" />
+    <p>DeepTune</p>
+  </a>
+  <a href="http://anettaj.in/" style="text-align: center;">
+    <img src="https://res.cloudinary.com/dljwalapq/image/upload/v1727952138/Portfolio/Projects/Newswave/13_umpsv5.png" alt="Newswave" width="200px" />
+    <p>Newswave</p>
+  </a>
+  <a href="http://anettaj.in/" style="text-align: center;">
+    <img src="https://res.cloudinary.com/dljwalapq/image/upload/v1731687872/Portfolio/Projects/Leetcode%20Progress%20Tracker/Group_47244_hhak3w.png" alt="Leetcode Progress Tracker" width="200px" />
+    <p>Leetcode Progress Tracker</p>
+  </a>
+</div>
+
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anet-taj-a350b1272/) 
@@ -18,11 +35,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anettaj&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anettaj&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=anettaj&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<!-- ## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=anettaj&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
+
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-
