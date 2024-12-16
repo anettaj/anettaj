@@ -11,7 +11,7 @@
 <table align="center" border="0" style="background-color: white; border: 1px solid white;">
   <tr>
     <td colspan="2" align="center">
-      <a href="https://anettaj.in/Leetcodetracker/">
+      <a href="https://anettaj.in/DSA/">
         <img src="https://res.cloudinary.com/dljwalapq/image/upload/v1731687872/Portfolio/Projects/Leetcode%20Progress%20Tracker/Group_47244_hhak3w.png" alt="DSA Progress Tracker" width="60%"/>
       </a>
       <p style="color: black; font-weight: bold;">DSA Progress Tracker</p>
