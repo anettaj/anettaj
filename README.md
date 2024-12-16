@@ -12,9 +12,9 @@
   <tr>
     <td colspan="2" align="center">
       <a href="https://anettaj.in/Leetcodetracker/">
-        <img src="https://res.cloudinary.com/dljwalapq/image/upload/v1731687872/Portfolio/Projects/Leetcode%20Progress%20Tracker/Group_47244_hhak3w.png" alt="Leetcode Progress Tracker" width="60%"/>
+        <img src="https://res.cloudinary.com/dljwalapq/image/upload/v1731687872/Portfolio/Projects/Leetcode%20Progress%20Tracker/Group_47244_hhak3w.png" alt="DSA Progress Tracker" width="60%"/>
       </a>
-      <p style="color: black; font-weight: bold;">Leetcode Progress Tracker</p>
+      <p style="color: black; font-weight: bold;">DSA Progress Tracker</p>
     </td>
   </tr>
   <tr>
