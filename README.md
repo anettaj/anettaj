@@ -1,7 +1,6 @@
 ## Hey, I'm [Anet!](http://anettaj.me/) 👋
 
 - 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Frontend
 - 💬 Ask me anything about Flutter
 - 📫 How to reach me: anettajarackal@gmail.com
 
